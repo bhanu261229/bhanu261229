@@ -6,7 +6,7 @@
 - 🌱 **I’m currently learning:** Advanced Power BI (DAX), Power Query (M Language), SQL for Analytics, Performance Optimization
 - 👯 **I’m looking to collaborate on:** Real-world Excel / Power BI projects, Reporting Automation, Business Intelligence Solutions
 - 🤔 **I’m looking for help with:** Advanced DAX calculations, Large Dataset Optimization, Best BI Practices
-- 💬 **Ask me about:**Excel (Advanced Formulas, Pivot Tables), Power Query, Power BI Dashboards, Data Cleaning & Automation
+- 💬 **Ask me about:** Excel (Advanced Formulas, Pivot Tables), Power Query, Power BI Dashboards, Data Cleaning & Automation
 - 📫 **How to reach me:** bhawanajeena08511@gmail.com
 - ⚡ **Fun fact:** I love working with data, and data loves being cleaned by me📊✨
 - 
