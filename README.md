@@ -1,35 +1,19 @@
-#  Hi 👋, I'm Bhawana Jeena
-**A passionate Data Analyst | Excel Expert | Power Query Specialist | Power BI Developer from India 🇮🇳**
+# 👋 Hi, I'm Bhawana Jeena
+**Data Analyst | Excel | Power Query | Power BI | India 🇮🇳**
 
-🚀**About Me**
-- 🔭 **I’m currently working on:** Excel Dashboards, Power Query Automation, Power BI Reports, Data Cleaning & Transformation Projects
-- 🌱 **I’m currently learning:** Advanced Power BI (DAX), Power Query (M Language), SQL for Analytics, Performance Optimization
-- 👯 **I’m looking to collaborate on:** Real-world Excel / Power BI projects, Reporting Automation, Business Intelligence Solutions
-- 🤔 **I’m looking for help with:** Advanced DAX calculations, Large Dataset Optimization, Best BI Practices
-- 💬 **Ask me about:** Excel (Advanced Formulas, Pivot Tables), Power Query, Power BI Dashboards, Data Cleaning & Automation
-- 📫 **How to reach me:** bhawanajeena08511@gmail.com
-- ⚡ **Fun fact:** I love working with data, and data loves being cleaned by me📊✨
-- 
-  🛠️ **Skills & Tools**
-  
-- 📊 **Microsoft Excel**
-Advanced Formulas (XLOOKUP, INDEX-MATCH, IF, SUMIFS),
-Pivot Tables & Pivot Charts,
-Dashboards & KPI Reports,
-Data Validation & Conditional Formatting,
-Macros (Basics).
+🚀 **About Me**
+- 🔭 Working on **Excel Dashboards, Power Query Automation & Power BI Reports**
+- 🌱 Learning **Advanced DAX, M Language & SQL for Analytics**
+- 👯 Open to **Excel / Power BI & BI Automation Projects**
+- 💬 Ask me about **Excel, Power Query, Power BI & Data Cleaning**
+- 📫 **Email:** bhawanajeena08511@gmail.com
+- ⚡ Fun fact: I turn messy data into meaningful insights 📊
 
-- 🔄 **Power Query**
-Data Cleaning & Transformation,
-Merge & Append Queries,
-Automating Repetitive Tasks,
-Handling Large & Messy Data,
-M Language (Basics).
+🛠️ **Skills**
+- **Excel:** Advanced formulas, Pivot Tables, Dashboards, KPIs, Macros (Basic)
+- **Power Query:** Data cleaning, merge/append, automation, large datasets
+- **Power BI:** Interactive dashboards, data modeling, DAX (Basic)
 
-- 📈**Power BI**
-Interactive Dashboards,
-Data Modeling,
-DAX (Basics).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhawana__jeena_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhawana-jeena-341918250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeenabhawana173@gmail.com) 
