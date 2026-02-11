@@ -21,8 +21,12 @@
 # 💻 Tech Stack:
 ![Excel](https://img.shields.io/badge/excel-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/power_query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Maceos(VBA)](https://img.shields.io/badge/macros-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Maceos(VBA)](https://img.shields.io/badge/Macros-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/Power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Numpy](https://img.shields.io/badge/Numpy-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhanu261229&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
