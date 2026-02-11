@@ -1,18 +1,24 @@
 # 👋 Hi, I'm Bhawana Jeena
-**Data Analyst | Excel | Power Query | Power BI | India 🇮🇳**
+
+**Data Analyst | Excel | Power Query | Power BI | Python | India 🇮🇳**
 
 🚀 **About Me**
-- 🔭 Working on **Excel Dashboards, Power Query Automation & Power BI Reports**
-- 🌱 Learning **Advanced DAX, M Language & SQL for Analytics**
-- 👯 Open to **Excel / Power BI & BI Automation Projects**
-- 💬 Ask me about **Excel, Power Query, Power BI & Data Cleaning**
-- 📫 **Email:** bhawanajeena08511@gmail.com
-- ⚡ Fun fact: I turn messy data into meaningful insights 📊
+
+* 🔭 Working on **Excel Dashboards, Power Query Automation & Power BI Reports**
+* 📊 Using **Python (NumPy, Pandas, Matplotlib)** for data analysis, cleaning, and visualization
+* 🌱 Learning **Advanced DAX, M Language & SQL for Analytics**
+* 👯 Open to **Excel / Power BI & BI Automation Projects**
+* 💬 Ask me about **Excel, Power Query, Power BI & Data Cleaning**
+* 📫 **Email:** [bhawanajeena08511@gmail.com](mailto:bhawanajeena08511@gmail.com)
+* ⚡ Fun fact: I turn messy data into meaningful insights 📊
 
 🛠️ **Skills**
-- **Excel:** Advanced formulas, Pivot Tables, Dashboards, KPIs, Macros (Basic)
-- **Power Query:** Data cleaning, merge/append, automation, large datasets
-- **Power BI:** Interactive dashboards, data modeling, DAX (Basic)
+
+* **Excel:** Advanced formulas, Pivot Tables, Dashboards, KPIs, Macros (Basic)
+* **Power Query:** Data cleaning, merge/append, automation, large datasets
+* **Power BI:** Interactive dashboards, data modeling, DAX (Basic)
+* **Python:** NumPy, Pandas, Matplotlib (data analysis & visualization)
+
 
 
 ## 🌐 Socials:
